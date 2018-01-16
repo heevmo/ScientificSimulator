@@ -1,1 +1,1 @@
-A scientific simulator of Pearce’s configural model of classical conditioning.
+## **A scientific simulator of Pearceâ€™s configural model of classical conditioning.**
