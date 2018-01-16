@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="view/utils/" kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="src" path="libraries"/>
+	<classpathentry kind="lib" path="libraries/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="libraries/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="libraries/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-3.8-beta5-20111217.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-ooxml-3.8-beta5-20111217.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-ooxml-schemas-3.8-beta5-20111217.jar"/>
+	<classpathentry kind="lib" path="libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
